@@ -2,3 +2,6 @@
 
 Site-Curiosidades Android!
 <a href='https://brcunha-dev.github.io/projetos/site-android/index.html' target=_blank rel=external>Curiosidades Android</a>
+
+Site-Cordel Moderno!
+<a href='https://brcunha-dev.github.io/projetos/cordel-moderno/index.html' target=_blank rel=external>Cordel Moderno</a>
