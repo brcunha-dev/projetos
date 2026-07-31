@@ -1,7 +1,10 @@
-==> Esse repositório abriga varios projetos (tanto prontos quanto em andamento). Projetos maiores terão repositórios próprios. Os links abaixo levam para páginas dos projetos propriamente ditos.
+🚀 Projetos & Experimentos
 
-Site-Curiosidades Android!
-<a href='https://brcunha-dev.github.io/projetos/site-android/index.html' target=_blank rel=external>Curiosidades Android</a>
+Este repositório centraliza meus projetos web (concluídos e em andamento) hospedados no GitHub Pages. Projetos de maior porte possuem repositórios dedicados.
 
-Site-Cordel Moderno!
-<a href='https://brcunha-dev.github.io/projetos/cordel-moderno/index.html' target=_blank rel=external>Cordel Moderno</a>
+🔗 Acesse os projetos:
+
+* <a href='https://brcunha-dev.github.io/projetos/site-android/index.html' target=_blank rel=external>Curiosidades Android</a>
+
+
+* <a href='https://brcunha-dev.github.io/projetos/cordel-moderno/index.html' target=_blank rel=external>Cordel Moderno</a>
