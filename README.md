@@ -6,5 +6,4 @@ Este repositório centraliza meus projetos web (concluídos e em andamento) hosp
 
 * <a href='https://brcunha-dev.github.io/projetos/site-android/index.html' target=_blank rel=external>Curiosidades Android</a>
 
-
 * <a href='https://brcunha-dev.github.io/projetos/cordel-moderno/index.html' target=_blank rel=external>Cordel Moderno</a>

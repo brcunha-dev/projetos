@@ -66,11 +66,22 @@ section >input{
     box-shadow: var(--sombra);
 }
 
+section >input:focus::placeholder{
+    color: transparent;
+    transition: 0.3s;
+}
+
+
+
 section >a{
     font-family: var(--fonte-principal);
     font-weight: bold;
     color: var(--cor-secundaria);
-    text-decoration: none;
+    text-decoration: none;  
+}
+
+section >a:hover{
+    text-decoration: underline;
 }
 
 footer{
