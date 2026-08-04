@@ -6,7 +6,7 @@ document.getElementById('btn-entrar').addEventListener('click', function() {
 
             // Credenciais
             const usuarioCorreto = "Giulia Gabriella";
-            const senhaCorreta = "220306";
+            const senhaCorreta = "220300";
 
             // Nome da página 
             const paginaDestino = "conteudo.html"; 
