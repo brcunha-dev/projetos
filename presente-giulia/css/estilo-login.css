@@ -35,7 +35,7 @@ header >h1{
 }
 
 section{
-    height: 208px;
+    height: 210px;
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -70,8 +70,6 @@ section >input:focus::placeholder{
     color: transparent;
     transition: 0.3s;
 }
-
-
 
 section >a{
     font-family: var(--fonte-principal);
