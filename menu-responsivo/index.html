@@ -4,11 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/home.css">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="css/mediaquery.css">
+
+    <!-- Api para icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> 
 
     <title>Menu Responsivo</title>
 </head>
-<body>
+<body onresize="mudouTamanho()">
     <header>
         <h1>Site</h1>
         <i id="burguer" class="material-icons" onclick="clickMenu()">menu</i>
@@ -39,6 +42,15 @@
         </article>
     </main>
     <script>
+
+        function mudouTamanho(){
+            if (window.innerWidth >=768){
+                itens.style.display ='block'
+            }else{
+                itens.style.display = 'none'
+            }
+        }
+
         function clickMenu(){
             if (itens.style.display=='block'){
             itens.style.display='none'
